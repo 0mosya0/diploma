@@ -1,7 +1,17 @@
+<script>
+import Header from "./components/Header.vue";
+
+export default {
+   name: "App",
+   components: {
+      Header,
+   },
+};
+</script>
+
 <template>
-   <div>
-      <router-link to="/home"> Home </router-link>
-      <router-link to="/login"> Login </router-link>
+   <Header></Header>
+   <div class="text-center mt-4">
       <router-view />
    </div>
 </template>

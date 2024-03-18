@@ -1,7 +1,9 @@
 ﻿<template>
    <form class="max-w-sm mx-auto mt-44">
       <div class="mb-5">
-         <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+         <label
+            for="email"
+            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-white"
             >Your email</label
          >
          <input
@@ -13,7 +15,9 @@
          />
       </div>
       <div class="mb-5">
-         <label for="password" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+         <label
+            for="password"
+            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-white"
             >Your password</label
          >
          <input
@@ -26,7 +30,7 @@
       <div class="mb-5">
          <label
             for="repeat-password"
-            class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-white"
             >Repeat password</label
          >
          <input
