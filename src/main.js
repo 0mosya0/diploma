@@ -3,9 +3,10 @@ import { createRouter, createWebHistory } from "vue-router";
 import "./style.css";
 
 import App from "./App.vue";
-import Profile from "./components/Profile.vue";
+import Profile from "./pages/Profile.vue";
 import Login from "./components/Login.vue";
 import SignUp from "./components/SignUp.vue";
+import Orgs from "./pages/Organizations.vue";
 
 const app = createApp(App);
 
@@ -16,6 +17,7 @@ const router = createRouter({
       { path: "/home", component: Profile },
       { path: "/login", component: Login },
       { path: "/reg", component: SignUp },
+      { path: "/orgs", component: Orgs },
    ],
 });
 
