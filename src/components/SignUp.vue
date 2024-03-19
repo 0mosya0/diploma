@@ -3,7 +3,7 @@
       <div class="mb-5">
          <label
             for="email"
-            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-white"
+            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-gray-700"
             >Your email</label
          >
          <input
@@ -17,7 +17,7 @@
       <div class="mb-5">
          <label
             for="password"
-            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-white"
+            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-gray-700"
             >Your password</label
          >
          <input
@@ -30,7 +30,7 @@
       <div class="mb-5">
          <label
             for="repeat-password"
-            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-white"
+            class="block mb-2 text-sm text-left font-medium text-gray-900 dark:text-gray-700"
             >Repeat password</label
          >
          <input
@@ -50,7 +50,7 @@
                required
             />
          </div>
-         <label for="terms" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300"
+         <label for="terms" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-500"
             >I agree with the
             <a href="#" class="text-blue-600 hover:underline dark:text-blue-500"
                >terms and conditions</a
