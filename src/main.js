@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import "./style.css";
 
 import App from "./App.vue";
-import Home from "./components/Home.vue";
+import Profile from "./components/Profile.vue";
 import Login from "./components/Login.vue";
 import SignUp from "./components/SignUp.vue";
 
@@ -13,7 +13,7 @@ const router = createRouter({
    history: createWebHistory(),
    routes: [
       { path: "/", component: App },
-      { path: "/home", component: Home },
+      { path: "/home", component: Profile },
       { path: "/login", component: Login },
       { path: "/reg", component: SignUp },
    ],

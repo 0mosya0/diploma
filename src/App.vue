@@ -11,7 +11,7 @@ export default {
 
 <template>
    <Header></Header>
-   <div class="text-center mt-4">
+   <div class="text-center">
       <router-view />
    </div>
 </template>
