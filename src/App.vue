@@ -10,7 +10,7 @@ export default {
 </script>
 
 <template>
-   <Header></Header>
+   <Header />
    <div class="text-center">
       <router-view />
    </div>
