@@ -210,11 +210,10 @@
                      class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
                   >
                      <tr>
-                        <th scope="col" class="px-4 py-3">Product name</th>
-                        <th scope="col" class="px-4 py-3">Category</th>
-                        <th scope="col" class="px-4 py-3">Brand</th>
-                        <th scope="col" class="px-4 py-3">Description</th>
-                        <th scope="col" class="px-4 py-3">Price</th>
+                        <th scope="col" class="px-4 py-3">Организация</th>
+                        <th scope="col" class="px-4 py-3">Адрес</th>
+                        <th scope="col" class="px-4 py-3">Сфера жизнедеятельности</th>
+                        <th scope="col" class="px-4 py-3">Рабочие дни</th>
                         <th scope="col" class="px-4 py-3">
                            <span class="sr-only">Actions</span>
                         </th>
@@ -224,14 +223,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Apple iMac 27&#34;
+                           УЗ "19-я центральная районная поликлиника Первомайского района г.Минска"
                         </th>
-                        <td class="px-4 py-3">PC</td>
-                        <td class="px-4 py-3">Apple</td>
-                        <td class="px-4 py-3">300</td>
-                        <td class="px-4 py-3">$2999</td>
+                        <td class="px-4 py-3">Город Минск, проспект Независимости, 119</td>
+                        <td class="px-4 py-3">Здравоохранение</td>
+                        <td class="px-4 py-3">Пн, Вт, Ср, Чт, Пт</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="apple-imac-27-dropdown-button"
@@ -287,14 +285,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Apple iMac 20&#34;
+                           УЗ "1-я городская клиническая больница"
                         </th>
-                        <td class="px-4 py-3">PC</td>
-                        <td class="px-4 py-3">Apple</td>
-                        <td class="px-4 py-3">200</td>
-                        <td class="px-4 py-3">$1499</td>
+                        <td class="px-4 py-3">Город Минск, проспект Независимости, 64</td>
+                        <td class="px-4 py-3">Здравоохранение</td>
+                        <td class="px-4 py-3">Пн, Вт, Ср, Чт, Пт</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="apple-imac-20-dropdown-button"
@@ -350,14 +347,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Apple iPhone 14
+                           Учреждение "Республиканский центр олимпийской подготовки по теннису"
                         </th>
-                        <td class="px-4 py-3">Phone</td>
-                        <td class="px-4 py-3">Apple</td>
-                        <td class="px-4 py-3">1237</td>
-                        <td class="px-4 py-3">$999</td>
+                        <td class="px-4 py-3">Город Минск, проспект Победителей, 63/1-1</td>
+                        <td class="px-4 py-3">Физическая культура, спорт и туризм</td>
+                        <td class="px-4 py-3">Пн-Вс</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="apple-iphone-14-dropdown-button"
@@ -413,14 +409,14 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Apple iPad Air
+                           Коммунальное унитарное производственное предприятие по эксплуатации и
+                           ремонту коммунальных тепловых сетей и котельных "Минсккоммунтеплосеть"
                         </th>
-                        <td class="px-4 py-3">Tablet</td>
-                        <td class="px-4 py-3">Apple</td>
-                        <td class="px-4 py-3">4578</td>
-                        <td class="px-4 py-3">$1199</td>
+                        <td class="px-4 py-3">Город Минск, улица Волгоградская, 12</td>
+                        <td class="px-4 py-3">Жилищно-коммунальное хозяйство</td>
+                        <td class="px-4 py-3">Пн, Вт, Ср, Чт, Пт</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="apple-ipad-air-dropdown-button"
@@ -476,14 +472,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Xbox Series S
+                           Министерство внутренних дел Республики Беларусь
                         </th>
-                        <td class="px-4 py-3">Gaming/Console</td>
-                        <td class="px-4 py-3">Microsoft</td>
-                        <td class="px-4 py-3">56</td>
-                        <td class="px-4 py-3">$299</td>
+                        <td class="px-4 py-3">Город Минск, улица Городской Вал, 4</td>
+                        <td class="px-4 py-3">Правоохранительные органы</td>
+                        <td class="px-4 py-3">Пн, Вт, Ср, Чт, Пт</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="xbox-series-s-dropdown-button"
@@ -539,14 +534,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           PlayStation 5
+                           УО "Белорусская государственная академия связи"
                         </th>
-                        <td class="px-4 py-3">Gaming/Console</td>
-                        <td class="px-4 py-3">Sony</td>
-                        <td class="px-4 py-3">78</td>
-                        <td class="px-4 py-3">$799</td>
+                        <td class="px-4 py-3">Город Минск, улица Франциска Скорины, 8к2</td>
+                        <td class="px-4 py-3">Образование</td>
+                        <td class="px-4 py-3">Пн-Сб</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="playstation-5-dropdown-button"
@@ -602,14 +596,14 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Xbox Series X
+                           Факультет иностранных языков. УО "Брестский государственный университет
+                           имени А.С. Пушкина"
                         </th>
-                        <td class="px-4 py-3">Gaming/Console</td>
-                        <td class="px-4 py-3">Microsoft</td>
-                        <td class="px-4 py-3">200</td>
-                        <td class="px-4 py-3">$699</td>
+                        <td class="px-4 py-3">Город Брест, улица Мицкевича, 28/1</td>
+                        <td class="px-4 py-3">Образование</td>
+                        <td class="px-4 py-3">Пн-Сб</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="xbox-series-x-dropdown-button"
@@ -665,14 +659,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Apple Watch SE
+                           Спорткомплекс "Городской центр олимпийского резерва единоборств"
                         </th>
-                        <td class="px-4 py-3">Watch</td>
-                        <td class="px-4 py-3">Apple</td>
-                        <td class="px-4 py-3">657</td>
-                        <td class="px-4 py-3">$399</td>
+                        <td class="px-4 py-3">Город Минск, ул.Карбышева, 46/1</td>
+                        <td class="px-4 py-3">Физическая культура, спорт и туризм</td>
+                        <td class="px-4 py-3">Пн-Вс</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="apple-watch-se-dropdown-button"
@@ -728,14 +721,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           NIKON D850
+                           Учреждение "Редакция Щучинской районной газеты "Дзянница"
                         </th>
-                        <td class="px-4 py-3">Photo</td>
-                        <td class="px-4 py-3">Nikon</td>
-                        <td class="px-4 py-3">465</td>
-                        <td class="px-4 py-3">$599</td>
+                        <td class="px-4 py-3">Город Щучин, улица Гастелло, 5</td>
+                        <td class="px-4 py-3">Полиграфическая и издательская деятельность</td>
+                        <td class="px-4 py-3">Пн, Вт, Ср, Чт, Пт</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="nikon-d850-dropdown-button"
@@ -791,14 +783,13 @@
                      <tr class="border-b dark:border-gray-700">
                         <th
                            scope="row"
-                           class="px-4 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+                           class="px-4 py-3 font-medium text-gray-900 whitespace-normal dark:text-white"
                         >
-                           Monitor BenQ EX2710Q
+                           УЗ "3-я городская стоматологическая поликлиника"
                         </th>
-                        <td class="px-4 py-3">TV/Monitor</td>
-                        <td class="px-4 py-3">BenQ</td>
-                        <td class="px-4 py-3">354</td>
-                        <td class="px-4 py-3">$499</td>
+                        <td class="px-4 py-3">Город Минск, улица Киселева, 5</td>
+                        <td class="px-4 py-3">Здравоохранение</td>
+                        <td class="px-4 py-3">Пн, Вт, Ср, Чт, Пт</td>
                         <td class="px-4 py-3 flex items-center justify-end">
                            <button
                               id="benq-ex2710q-dropdown-button"
