@@ -15,9 +15,9 @@ app.use(PrimeVue);
 const router = createRouter({
    history: createWebHistory(),
    routes: [
-      { path: "/", component: App },
+      //      { path: "/", component: App },
       { path: "/home", component: Profile },
-      { path: "/login", component: Login },
+      { path: "/", component: Login },
       { path: "/reg", component: SignUp },
       { path: "/orgs", component: Orgs },
    ],

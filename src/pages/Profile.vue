@@ -200,7 +200,7 @@
       <div class="p-4 border-gray-200 border-dashed rounded-lg dark:border-gray-700 mt-14">
          <!-- add border-2 -->
          <div
-            class="flex items-center justify-center h-48 mb-4 rounded bg-gray-50 dark:bg-gray-800"
+            class="flex items-center justify-center h-96 mb-4 rounded bg-gray-50 dark:bg-gray-800"
          >
             <p class="text-2xl text-gray-400 dark:text-gray-500">
                <svg
@@ -221,7 +221,7 @@
             </p>
          </div>
          <div class="grid grid-cols-2 gap-4 mb-4">
-            <div class="flex items-center justify-center rounded bg-gray-50 h-28 dark:bg-gray-800">
+            <div class="flex items-center justify-center rounded bg-gray-50 h-48 dark:bg-gray-800">
                <p class="text-2xl text-gray-400 dark:text-gray-500">
                   <svg
                      class="w-3.5 h-3.5"
@@ -240,7 +240,7 @@
                   </svg>
                </p>
             </div>
-            <div class="flex items-center justify-center rounded bg-gray-50 h-28 dark:bg-gray-800">
+            <div class="flex items-center justify-center rounded bg-gray-50 h-48 dark:bg-gray-800">
                <p class="text-2xl text-gray-400 dark:text-gray-500">
                   <svg
                      class="w-3.5 h-3.5"
@@ -259,7 +259,7 @@
                   </svg>
                </p>
             </div>
-            <div class="flex items-center justify-center rounded bg-gray-50 h-28 dark:bg-gray-800">
+            <div class="flex items-center justify-center rounded bg-gray-50 h-48 dark:bg-gray-800">
                <p class="text-2xl text-gray-400 dark:text-gray-500">
                   <svg
                      class="w-3.5 h-3.5"
@@ -278,7 +278,7 @@
                   </svg>
                </p>
             </div>
-            <div class="flex items-center justify-center rounded bg-gray-50 h-28 dark:bg-gray-800">
+            <div class="flex items-center justify-center rounded bg-gray-50 h-4w8 dark:bg-gray-800">
                <p class="text-2xl text-gray-400 dark:text-gray-500">
                   <svg
                      class="w-3.5 h-3.5"
